@@ -70,18 +70,18 @@ span{
     .row{width: 100%;}
     #one{
         position: absolute;
-        left: 78%;
+        left: 72%;
         background-color: red;
     }
     #two{
         
         position: absolute;
-        left: 78%;
+        left: 72%;
         background-color: blueviolet;
     }
     #three{
         position: absolute;
-        left: 78%;
+        left: 72%;
         background-color: green;
     }
     section{width: 90%;}
